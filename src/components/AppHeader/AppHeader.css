@@ -1,0 +1,14 @@
+.app-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 80px;
+    margin-bottom: 15px;
+  }
+  
+  .app-header h1{
+    color: #000;
+  }
+  .app-header h4{
+    color: #999;
+  }
